@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: My Knitting Sampler
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a small collection to teach knitting search techniques
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Hello friends! This collection is a sample of some of the work I have done over the years. I am hoping you can use it to familiarize yourself with knitting terms and gain inspiration for projects of your own. If you are taking one of my classes, we will use this collection as a jumping off point to learn abount Ravelry and pattern searching. Please feel free to browse. I hope you enjoy!
+description: Hello friends! This collection is a sample of some of the work I have done over the years. I am hoping you can use it to familiarize yourself with knitting terms and gain inspiration for projects of your own. If you are taking one of my classes, we will use this collection as a jumping off point to learn about Ravelry and pattern searching. Please feel free to browse. I hope you enjoy!
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Laura Zeurmens
 
