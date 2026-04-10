@@ -2,7 +2,7 @@
 title: Color
 layout: cloud
 permalink: /colors.html
-cloud-fields: color
+cloud-fields: site.data.theme.colors-fields
 cloud-min: 1
 cloud-stopwords:
 ---
