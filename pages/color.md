@@ -2,7 +2,7 @@
 title: Colors
 layout: cloud
 permalink: /colors.html
-cloud-fields:  	color
+cloud-fields: color
 ---
 
 ## Browse Colors
